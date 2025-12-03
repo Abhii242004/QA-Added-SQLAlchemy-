@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+beautifulsoup4
+lxml
+requests
+chromadb
+fastembed
+pysqlite3-binary
+python-dotenv
+sqlalchemy  # <-- ADDED for the SQL metadata database
